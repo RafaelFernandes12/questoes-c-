@@ -5,6 +5,7 @@ using namespace std;
 int main(){
     int a,b,c,d;
     cin >> a;
+    
     b = a/3600;
     a = a%3600;
 
